@@ -69,8 +69,3 @@ df
 df.to_html()
 
 browser.quit()
-
-
-
-
-
